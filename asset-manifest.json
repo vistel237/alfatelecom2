@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/alfatelecom2/static/css/main.eb13ac06.chunk.css",
-    "main.js": "/alfatelecom2/static/js/main.60ae3e09.chunk.js",
-    "main.js.map": "/alfatelecom2/static/js/main.60ae3e09.chunk.js.map",
+    "main.css": "/alfatelecom2/static/css/main.3cd4e27f.chunk.css",
+    "main.js": "/alfatelecom2/static/js/main.ef7cb402.chunk.js",
+    "main.js.map": "/alfatelecom2/static/js/main.ef7cb402.chunk.js.map",
     "runtime-main.js": "/alfatelecom2/static/js/runtime-main.353402e9.js",
     "runtime-main.js.map": "/alfatelecom2/static/js/runtime-main.353402e9.js.map",
     "static/css/2.563bc84f.chunk.css": "/alfatelecom2/static/css/2.563bc84f.chunk.css",
-    "static/js/2.7dfa5a15.chunk.js": "/alfatelecom2/static/js/2.7dfa5a15.chunk.js",
-    "static/js/2.7dfa5a15.chunk.js.map": "/alfatelecom2/static/js/2.7dfa5a15.chunk.js.map",
+    "static/js/2.d14761bd.chunk.js": "/alfatelecom2/static/js/2.d14761bd.chunk.js",
+    "static/js/2.d14761bd.chunk.js.map": "/alfatelecom2/static/js/2.d14761bd.chunk.js.map",
     "static/js/3.e303f9d1.chunk.js": "/alfatelecom2/static/js/3.e303f9d1.chunk.js",
     "static/js/3.e303f9d1.chunk.js.map": "/alfatelecom2/static/js/3.e303f9d1.chunk.js.map",
     "index.html": "/alfatelecom2/index.html",
     "static/css/2.563bc84f.chunk.css.map": "/alfatelecom2/static/css/2.563bc84f.chunk.css.map",
-    "static/css/main.eb13ac06.chunk.css.map": "/alfatelecom2/static/css/main.eb13ac06.chunk.css.map",
-    "static/js/2.7dfa5a15.chunk.js.LICENSE.txt": "/alfatelecom2/static/js/2.7dfa5a15.chunk.js.LICENSE.txt",
+    "static/css/main.3cd4e27f.chunk.css.map": "/alfatelecom2/static/css/main.3cd4e27f.chunk.css.map",
+    "static/js/2.d14761bd.chunk.js.LICENSE.txt": "/alfatelecom2/static/js/2.d14761bd.chunk.js.LICENSE.txt",
     "static/media/Datix2App_1-300x300.7fbc8764.png": "/alfatelecom2/static/media/Datix2App_1-300x300.7fbc8764.png",
     "static/media/SRD.8c164acb.jpg": "/alfatelecom2/static/media/SRD.8c164acb.jpg",
     "static/media/attente.af5f683d.jfif": "/alfatelecom2/static/media/attente.af5f683d.jfif",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.353402e9.js",
     "static/css/2.563bc84f.chunk.css",
-    "static/js/2.7dfa5a15.chunk.js",
-    "static/css/main.eb13ac06.chunk.css",
-    "static/js/main.60ae3e09.chunk.js"
+    "static/js/2.d14761bd.chunk.js",
+    "static/css/main.3cd4e27f.chunk.css",
+    "static/js/main.ef7cb402.chunk.js"
   ]
 }
