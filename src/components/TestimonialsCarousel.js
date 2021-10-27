@@ -25,7 +25,7 @@ export const TestimonialsCarousel = () => {
                 <h3>Akwa Palace</h3>
                     <p>
                         c,peEF%EMZPQGKLF?FLKDJGOQDLI?GEKRQG?OLM?WKD?VPRSMLG?%MQ/WB?RPQB?E%LTK?BQE
-                        CIZNEMVLKSVLK?RZ?VMSD%?VLDK?VVDF?SLKDF?.dnsl,vlsq,vdlf,bkd,bldk bld,
+                        CIZNEMVLKSVLK?RZ?VMSD%?VLD,
                     </p>
                 </div>
                 
@@ -37,7 +37,7 @@ export const TestimonialsCarousel = () => {
                     <h3>Akwa Palace</h3>
                     <p>
                         c,peEF%EMZPQGKLF?FLKDJGOQDLI?GEKRQG?OLM?WKD?VPRSMLG?%MQ/WB?RPQB?E%LTK?BQE
-                        CIZNEMVLKSVLK?RZ?VMSD%?VLDK?VVDF?SLKDF?.dnsl,vlsq,vdlf,bkd,bldk bld,
+                        CIZNEMVLKSVLK?RZ?VMSD%?VLDK?,
                     </p>
                 </div>
                 
@@ -49,7 +49,7 @@ export const TestimonialsCarousel = () => {
                     <h3>Akwa Palace</h3>
                     <p>
                         c,peEF%EMZPQGKLF?FLKDJGOQDLI?GEKRQG?OLM?WKD?VPRSMLG?%MQ/WB?RPQB?E%LTK?BQE
-                        CIZNEMVLKSVLK?RZ?VMSD%?VLDK?VVDF?SLKDF?.dnsl,vlsq,vdlf,bkd,bldk bld,
+                        CIZNEMVLKSVLK?RZ?VMS,
                     </p>
                 </div>
                 
@@ -61,7 +61,7 @@ export const TestimonialsCarousel = () => {
                     <h3>Akwa Palace</h3>
                     <p>
                         c,peEF%EMZPQGKLF?FLKDJGOQDLI?GEKRQG?OLM?WKD?VPRSMLG?%MQ/WB?RPQB?E%LTK?BQE
-                        CIZNEMVLKSVLK?RZ?VMSD%?VLDK?VVDF?SLKDF?.dnsl,vlsq,vdlf,bkd,bldk bld,
+                        CIZNEMVLKSVLK?RZ?VMSD,
                     </p>
                 </div>
             </>

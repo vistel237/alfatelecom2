@@ -620,16 +620,10 @@ textarea.form-control{
 @media (max-width: 360px) {
   .image-about{
     width: 335px;
-    height: 190px;
+    height: 200px;
   }
 }
 
-@media (max-width: 1024px) {
-  .image-about{
-    width: 455px;
-    height: 300px;
-  }
-}
 
 @media (max-width: 280px) {
   .image-about{
