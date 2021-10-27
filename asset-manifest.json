@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/alfatelecom2/static/css/main.eb13ac06.chunk.css",
+    "main.js": "/alfatelecom2/static/js/main.60ae3e09.chunk.js",
+    "main.js.map": "/alfatelecom2/static/js/main.60ae3e09.chunk.js.map",
+    "runtime-main.js": "/alfatelecom2/static/js/runtime-main.353402e9.js",
+    "runtime-main.js.map": "/alfatelecom2/static/js/runtime-main.353402e9.js.map",
+    "static/css/2.563bc84f.chunk.css": "/alfatelecom2/static/css/2.563bc84f.chunk.css",
+    "static/js/2.7dfa5a15.chunk.js": "/alfatelecom2/static/js/2.7dfa5a15.chunk.js",
+    "static/js/2.7dfa5a15.chunk.js.map": "/alfatelecom2/static/js/2.7dfa5a15.chunk.js.map",
+    "static/js/3.e303f9d1.chunk.js": "/alfatelecom2/static/js/3.e303f9d1.chunk.js",
+    "static/js/3.e303f9d1.chunk.js.map": "/alfatelecom2/static/js/3.e303f9d1.chunk.js.map",
+    "index.html": "/alfatelecom2/index.html",
+    "static/css/2.563bc84f.chunk.css.map": "/alfatelecom2/static/css/2.563bc84f.chunk.css.map",
+    "static/css/main.eb13ac06.chunk.css.map": "/alfatelecom2/static/css/main.eb13ac06.chunk.css.map",
+    "static/js/2.7dfa5a15.chunk.js.LICENSE.txt": "/alfatelecom2/static/js/2.7dfa5a15.chunk.js.LICENSE.txt",
+    "static/media/Datix2App_1-300x300.7fbc8764.png": "/alfatelecom2/static/media/Datix2App_1-300x300.7fbc8764.png",
+    "static/media/SRD.8c164acb.jpg": "/alfatelecom2/static/media/SRD.8c164acb.jpg",
+    "static/media/attente.af5f683d.jfif": "/alfatelecom2/static/media/attente.af5f683d.jfif",
+    "static/media/avatar-1.9277ecea.png": "/alfatelecom2/static/media/avatar-1.9277ecea.png",
+    "static/media/avatar-2.75d8f23e.png": "/alfatelecom2/static/media/avatar-2.75d8f23e.png",
+    "static/media/avatar-3.d6c9b46f.png": "/alfatelecom2/static/media/avatar-3.d6c9b46f.png",
+    "static/media/avatar-4.f7fb7ed7.png": "/alfatelecom2/static/media/avatar-4.f7fb7ed7.png",
+    "static/media/controlle.5dc05d0e.jpg": "/alfatelecom2/static/media/controlle.5dc05d0e.jpg",
+    "static/media/domotic.91a95217.jpg": "/alfatelecom2/static/media/domotic.91a95217.jpg",
+    "static/media/App.css": "/alfatelecom2/static/media/testimonials-bg.75612be7.jpg",
+    "static/media/iptv_2.e9392f33.png": "/alfatelecom2/static/media/iptv_2.e9392f33.png",
+    "static/media/itv2.88995dcc.jpg": "/alfatelecom2/static/media/itv2.88995dcc.jpg",
+    "static/media/logo_1.9f91ce65.png": "/alfatelecom2/static/media/logo_1.9f91ce65.png",
+    "static/media/sono.f0c093c6.jpg": "/alfatelecom2/static/media/sono.f0c093c6.jpg",
+    "static/media/tvr2.deb84a72.jpg": "/alfatelecom2/static/media/tvr2.deb84a72.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.353402e9.js",
+    "static/css/2.563bc84f.chunk.css",
+    "static/js/2.7dfa5a15.chunk.js",
+    "static/css/main.eb13ac06.chunk.css",
+    "static/js/main.60ae3e09.chunk.js"
+  ]
+}
